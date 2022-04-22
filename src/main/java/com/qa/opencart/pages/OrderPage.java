@@ -9,7 +9,11 @@ public class OrderPage {
 	
 	public void makeOrder() {
 		System.out.println("Order Page ");
+
 		System.out.println("Order is generated  ");
+
+		System.out.println("Order is generated ");
+
 	}
 	
 	public void getOrder() {
