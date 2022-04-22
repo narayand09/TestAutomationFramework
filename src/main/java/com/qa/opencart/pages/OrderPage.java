@@ -10,5 +10,9 @@ public class OrderPage {
 	public void makeOrder() {
 		System.out.println("Order Page ");
 	}
+	
+	public void getOrder() {
+		System.out.println("Order id is 1234 ");
+	}
 
 }
